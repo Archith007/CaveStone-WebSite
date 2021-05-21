@@ -1,0 +1,29 @@
+h1{color: black;}
+
+
+div {
+     
+    }
+    .bromsdspsospdos{
+        border: solid
+    }
+    .Advikiswaste{
+        display:flex;
+        border: solid;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+    .trash{
+        display:flex;
+        border: solid;
+        justify-content: space-evenly;
+        flex-direction: row;
+        
+    }
+    .worst{
+        border: solid
+    }
+
+    .bad{
+        border: solid
+    }
